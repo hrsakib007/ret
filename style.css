@@ -1,0 +1,35 @@
+.upper{
+    height: 40rem;
+    background: url(./F1.large.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hov li:hover{
+    background: orange;
+    transition: .5s;
+}
+
+
+
+
+.ico i {
+    border: 1px dashed orange;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    padding-top: 13px;
+    margin-left: 4px;
+    color: orange;
+
+}
+.ico i:hover{
+    background: orange;
+    color: white;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }

@@ -1,0 +1,38 @@
+@media screen and (max-width: 768px) {
+    .hov li a{
+        text-align: center;
+    }
+    .social{
+        text-align: center;
+    }
+    .ff{
+        font-size: 4rem !important;
+    }
+    .imgg{
+        position: center;
+    }
+    .im{
+        padding-bottom: 1rem !important;
+    }
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+      .actor{
+          text-align: center;
+      }
+      .star{
+          padding-bottom:20px;
+      }
+      .hc{
+          font-size: 2rem;
+          font-weight: bolder;
+      }
+}
+@media screen and (max-width: 620px) {
+    .fnm h4{
+        padding-top: .5rem !important;
+    }
+}
